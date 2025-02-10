@@ -48,11 +48,13 @@ class ArticleFormatter:
     def format_articles(self, articles: List[Dict]):
         formatted_articles = []
         try:
+            self.logger.info(f"Formatting {len(articles)} articles")
             for article in articles:
-                formatted = self.format_article(article)  # Fixed: now passing individual article
+                formatted = self.format_article(
+                    article
+                )  # Fixed: now passing individual article
                 if formatted:
                     formatted_articles.append(formatted)
         except Exception as e:
             self.logger.error(f"Error formatting multiple articles: {e}")
         return formatted_articles
-
