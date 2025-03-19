@@ -1,0 +1,74 @@
+  Use this metric to evaluate these news article and score them
+  Significance is objective. It's about how much the event affects humanity as a whole
+  estimates the following seven factors for each:
+  Core Factors (Score 0-10 each):
+  Scale (25%): Geographic/population impact range
+  Impact (25%): Immediate effect strength
+  Potential (15%): Future influence likelihood
+  Legacy (15%): Historical milestone potential
+  Novelty (10%): Event uniqueness
+  Credibility (10%): Source reliability
+  Positivity Adjustment: +0.5 for major positive developments (counteracts negative news bias)
+  Combine these factors into a single significance score and normalize to a 0-10 scale.
+  Here are some examples
+  High Significance (6.0-6.5 range): "Iran Says It Has Broken Stockpile Limit Set By Nuclear Deal"
+  Scale: 8 (Global security implications) Impact: 8 (Immediate effect on international relations) Novelty: 7 (Major diplomatic breach) Potential: 8 (Could reshape global nuclear policy) Legacy: 7 (Potential historic turning point) Positivity: 2 (Negative implications for peace) Credibility: 8 (Well-documented by international sources) Normalized Score: 6.4/10
+  Medium Significance (3.0-4.0 range): "Canada Convinced Trump Will Pull Out Of NAFTA Deal: Report"
+  Scale: 5 (Affects North America) Impact: 5 (Economic implications) Novelty: 4 (Part of ongoing trade tensions) Potential: 4 (Reversible policy change) Legacy: 3 (Notable but not historic) Positivity: 3 (Economic uncertainty) Credibility: 7 (Reliable reporting) Normalized Score: 3.2/10
+  Low Significance (1.5-2.0 range): "Happy 92nd Birthday, George H.W. Bush!"
+  Scale: 2 (Limited audience) Impact: 1 (No substantial effect) Novelty: 1 (Annual occurrence) Potential: 1 (No future implications) Legacy: 2 (Minor historical note) Positivity: 7 (Positive personal event) Credibility: 8 (Verified event) Normalized Score: 1.9/10
+  Some more examples
+  [6.3] 6.5 Studies show Earth surpasses 1.5°C global warming limit set by Paris Agreement (theconversation.com + 5)
+  [6.0] Sam Altman predicts rapid AI advancements and warns of AGI implications
+  [6.4] Zelenskyy urges creation of European army as Russia plans troop deployment to Belarus
+  [3.8] Big Tech companies scale back diversity efforts amid legal and political shifts
+  [3.8] Sisi cancels US visit over Palestinian displacement discussions
+  [1.8] Daniel Dubois seeks rematch with Oleksandr Usyk after recent victories
+  [1.8] Woman shot dead while visiting father in Texas during holiday
+  [3.0] Farmers in Newfoundland and Labrador urged to boost local food production amid U.S. tariff threats
+  Below is the news articles and the headline
+  [ News article headline ]
+  [ Source ]
+
+
+
+
+
+
+
+
+
+
+  Score news significance (0-10 for each factor):
+    scale (25%): Geographic/population impact range
+    impact (20%): immediate effect strength
+    potential (15%): Future influence likelihood
+    legacy (15%): Historical milestone potential
+    novelty (10%): Event uniqueness
+    credibility (5%): source reliability
+    positivity (5%): +0.5 for major positive developments (counteracts negative news bias)
+    Format: {
+      'scale': N,
+      'impact': N,
+      'potential': N,
+      'legacy': N,
+      'novelty': N,
+      'credibility': N,
+      'positivity': N
+    }
+    Reference scores:
+    High (6+): Global crisis/breakthrough
+    Medium (3-5): Regional significance
+    Low (1-2): Local/minor impact",
+    Example scoring:
+    "Earth surpasses 1.5°C warming limit" (6.3/10)
+    {
+        "scale": 9,     // Global impact
+        "impact": 8,    // Major immediate effects
+        "potential": 9, // Long-term implications
+        "legacy": 8,    // Historic milestone
+        "novelty": 7,   // Significant threshold
+        "credibility": 9, // Scientific data
+        "positivity": 2  // Negative climate news
+  }
+

@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  scraper:
+    build: .
+    volumes:
+      - ./src:/app/src  # Mount source code
+      - ./data:/app/data  # Mount data directory
+      - ./logs:/app/logs  # Mount logs directory
+      - ./keys.env:/app/keys.env # Environment variables
+    environment:
+      - DOCKER_ENV=1
+    env_file:
+      - keys.env
+    restart: unless-stopped

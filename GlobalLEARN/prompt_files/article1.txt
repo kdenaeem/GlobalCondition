@@ -1,0 +1,43 @@
+VERSION 1: HEADLINE ONLY
+==================================================
+Canada Convinced Trump Will Pull Out Of NAFTA Deal: Report
+
+==================================================
+
+VERSION 2: HEADLINE + FULL CONTENT
+==================================================
+{
+  "headline": "Canada Convinced Trump Will Pull Out Of NAFTA Deal: Report",
+  "content": {
+    "text": "LOADINGERROR LOADING\n\nLONDON, Ontario (Reuters) - Canada is increasingly convinced that U.S. President Donald Trump will soon announce that the United States intends to pull out of the North American Free Trade Agreement, two government sources said on Wednesday.\n\nThe sources said they expected Trump would make his move at about the same time that negotiators from the United States, Canada and Mexico meet in late January for the sixth and penultimate round of talks to modernize the treaty.\n\nAdvertisement\n\nThe Canadian and Mexican currencies both weakened against the U.S. dollar after the news.\n\nThe Canadian dollar fell to its weakest level this year at C$1.2561 to the greenback, or 79.61 U.S. cents. The peso was trading down more than 0.6 pct at 1925 GMT, while the S&P/BM IPC stock index <.MXX> was down about 1.7 percent.\n\nTrump has repeatedly threatened to walk away from NAFTA unless Canada and Mexico agree to major changes Washington says are needed to make the 1994 treaty more fair.\n\nCanadian officials say if Trump does announce a U.S. withdrawal, it could be a negotiating tactic designed to win concessions. They also express doubt whether the U.S. Congress would approve such a move.\n\nAdvertisement\n\nCanada and Mexico have rejected most of the U.S. proposals for NAFTA reforms, leaving officials with a big job if they are to bridge the large differences at the Jan. 23-28 talks in Montreal. Negotiations are due to wrap up at the end of March.",
+    "summary": "LOADINGERROR LOADING\n\nLONDON, Ontario (Reuters) - Canada is increasingly convinced that U.S. President Donald Trump will soon announce that the United States intends to pull out of the North American Free Trade Agreement, two government sources said on Wednesday.\n\nThe sources said they expected Trump would make his move at about the same time that negotiators from the United States, Canada and Mexico meet in late January for the sixth and penultimate round of talks to modernize the treaty.\n\nAdvertisement\n\nThe Canadian and Mexican currencies both weakened against the U.S. dollar after the news.\n\nThe Canadian dollar fell to its weakest level this year at C$1.2561 to the greenback, or 79.61 U.S. cents. The peso was trading down more than 0.6 pct at 1925 GMT, while the S&P/BM IPC stock index <.MXX> was down about 1.7 percent.\n\nTrump has repeatedly threatened to walk away from NAFTA unless Canada and Mexico agree to major changes Washington says are needed to make the 1994 treaty more fair.\n\nCanadian officials say if Trump does announce a U.S. withdrawal, it could be a negotiating tactic designed to win concessions. They also express doubt whether the U.S. Congress would approve such a move.\n\nAdvertisement\n\nCanada and Mexico have rejected most of the U.S. proposals for NAFTA reforms, leaving officials with a big job if they are to bridge the large differences at the Jan. 23-28 talks in Montreal. Negotiations are due to wrap up at the end of March."
+  }
+}
+
+==================================================
+
+VERSION 3: HEADLINE + EXTRACT
+==================================================
+{
+  "headline": "Canada Convinced Trump Will Pull Out Of NAFTA Deal: Report",
+  "extract": {
+    "text": "LOADINGERROR LOADING\n\nLONDON, Ontario (Reuters) - Canada is increasingly convinced that U.S. President Donald Trump will soon announce that the United States intends to pull out of the North American Free Trade Agreement, two government sources said on Wednesday.\n\nThe sources said they expected Trump would make his move at about the same time that negotiators from the United States, Canada and Mexico meet in late January for the sixth and penultimate round of talks to modernize the treaty.\n\nAdvertisement\n\nThe Canadian and Mexican currencies both weakened against the U.S. dollar after the news.\n\nThe Canadian dollar fell to its weakest level this year at C$1.2561 to the greenback, or 79.61 U.S. cents. The peso was trading down more than 0.6 pct at 1925 GMT, while the S&P/BM IPC stock index <.MXX> was down about 1.7 percent.\n\nTrump has repeatedly threatened to walk away from NAFTA unless Canada and Mexico agree to major changes Washington says are needed to make the 1994 treaty more fair.\n\nCanadian officials say if Trump does announce a U.S. withdrawal, it could be a negotiating tactic designed to win concessions. They also express doubt whether the U.S. Congress would approve such a move.\n\nAdvertisement\n\nCanada and Mexico have rejected most of the U.S. proposals for NAFTA reforms, leaving officials with a big job if they are to bridge the large differences at the Jan. 23-28 talks in Montreal. Negotiations are due to wrap up at the end of March.",
+    "summary": "LOADINGERROR LOADING\n\nLONDON, Ontario (Reuters) - Canada is increasingly convinced that U.S. President Donald Trump will soon announce that the United States intends to pull out of the North American Free Trade Agreement, two government sources said on Wednesday.\n\nThe sources said they expected Trump would make his move at about the same time that negotiators from the United States, Canada and Mexico meet in late January for the sixth and penultimate round of talks to modernize the treaty.\n\nAdve"
+  }
+}
+
+
+
+o1 model
+{ "scale": 5, "impact": 5, "potential": 4, "legacy": 3, "novelty": 4, "credibility": 7, "positivity": 3 }
+
+{
+    "scale": 6,
+    "impact": 6,
+    "potential": 7,
+    "legacy": 6,
+    "novelty": 5,
+    "credibility": 8,
+    "positivity": 4
+}
+

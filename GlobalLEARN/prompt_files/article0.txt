@@ -1,0 +1,27 @@
+VERSION 1: HEADLINE ONLY
+==================================================
+Happy 92nd Birthday, George H.W. Bush
+
+==================================================
+
+VERSION 2: HEADLINE + FULL CONTENT
+==================================================
+{
+  "headline": "Happy 92nd Birthday, George H.W. Bush",
+  "content": {
+    "text": "Former President George H.W. Bush celebrated his 92nd birthday on Sunday.\n\nThe oldest living former president is having a low-key family celebration at his home in Kennebunkport, Maine, per his chief of staff, Jean Becker .\n\nHis granddaughters and former first daughters Jenna Bush Hager and Barbara Pierce Bush sent him birthday wishes via Instagram.\n\nAdvertisement\n\nBush has celebrated previous birthdays in adventurous ways. He went skydiving for his 90th birthday.",
+    "summary": "Former President George H.W. Bush celebrated his 92nd birthday on Sunday.\n\nThe oldest living former president is having a low-key family celebration at his home in Kennebunkport, Maine, per his chief of staff, Jean Becker .\n\nHis granddaughters and former first daughters Jenna Bush Hager and Barbara Pierce Bush sent him birthday wishes via Instagram.\n\nAdvertisement\n\nBush has celebrated previous birthdays in adventurous ways. He went skydiving for his 90th birthday."
+  }
+}
+
+==================================================
+
+VERSION 3: HEADLINE + EXTRACT
+==================================================
+{
+  "headline": "Happy 92nd Birthday, George H.W. Bush",
+  "extract": {
+    "text": "Former President George H.W. Bush celebrated his 92nd birthday on Sunday.\n\nThe oldest living former president is having a low-key family celebration at his home in Kennebunkport, Maine, per his chief of staff, Jean Becker .\n\nHis granddaughters and former first daughters Jenna Bush Hager and Barbara Pierce Bush sent him birthday wishes via Instagram.\n\nAdvertisement\n\nBush has celebrated previous birthdays in adventurous ways. He went skydiving for his 90th birthday.",
+    "summary": "Former President George H.W. Bush celebrated his 92nd birthday on Sunday.\n\nThe oldest living former president is having a low-key family celebration at his home in Kennebunkport, Maine, per his chief of staff, Jean Becker .\n\nHis granddaughters and former first daughters Jenna Bush Hager and Barbara Pierce Bush sent him birthday wishes via Instagram.\n\nAdvertisement\n\nBush has celebrated previous birthdays in adventurous ways. He went skydiving for his 90th birthday."
+  }
+}

@@ -1,0 +1,7 @@
+*.env
+__pycache__/
+*.ipynb_checkpoints/
+GlobalLEARN/dataset/News_Category_Dataset_v3.json
+__pycache__/
+*.ipynb_checkpoints/
+GlobalLEARN/dataset/News_Category_Dataset_v3.json
