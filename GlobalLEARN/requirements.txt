@@ -1,0 +1,8 @@
+kagglehub==0.3.7
+sigstore==3.6.1
+cryptography==44.0.0
+model-signing==0.2.0
+betterproto==2.0.0b6
+sigstore-protobuf-specs==0.3.2
+sigstore-rekor-types==0.0.18
+
